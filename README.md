@@ -1,6 +1,8 @@
 # DiceRollGame-
 This is a simple Dice rolling game developed using HTML, CSS and javascript.
 
+link: https://yangborai.github.io/DiceRollGame/
+
 How this game works:
 
 1. When you roll a dice, a random numbered dice is generated for player one and player two,
